@@ -233,6 +233,10 @@ section .title::after{
     border: 2px solid crimson;
     transition: all 0.3s ease;
 }
+.about .about-content .right a:hover{
+    color: crimson;
+    background: none;
+}
 
 /* Projekte section styling */
 .services, .teams{
