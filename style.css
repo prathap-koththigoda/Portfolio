@@ -333,7 +333,7 @@ section .title::after{
 }
 .contact .title::after{
    background: #353333;
-    content: "Melden Sie sich bei mir";
+    content: "Bitte kontaktieren Sie mich über die E-Mail !";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
